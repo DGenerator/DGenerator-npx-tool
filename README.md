@@ -1,0 +1,1 @@
+# DGenerator-npx-tool
